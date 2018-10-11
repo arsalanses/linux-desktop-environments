@@ -70,3 +70,14 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  direction: ltr;
+  font-size: 16px;
+}
+
+td {
+  border-bottom: 1px solid #ddd;
+}
